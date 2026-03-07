@@ -203,27 +203,7 @@ C++ systems, full trailer release.
 
 <br/>
 
-## `> git log --graph`
 
-<div align="center">
-
-> ⚡ To enable the snake animation, add the GitHub Action below to your repo.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YASH514131/YASH514131/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YASH514131/YASH514131/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YASH514131/YASH514131/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" height="1px" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=1"/>
-</div>
-
-<br/>
 
 <div align="center">
 
