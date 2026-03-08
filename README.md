@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=99999&pause=99999&color=00FF87&center=true&vCenter=true&width=600&height=70&lines=YASH514131" />
+<!-- 3D Name using capsule-render with shadow/3D style -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:000000&height=120&text=YASH514131&fontSize=72&fontColor=00FF87&fontAlignY=65&desc=Founder%20%C2%B7%20Web3%20%C2%B7%20ZK%20Researcher%20%C2%B7%20Game%20Dev%20%C2%B7%20Flutter%20Engineer&descSize=13&descAlignY=90&descColor=444444&animation=blinking&stroke=005500&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=00FF87&center=true&vCenter=true&width=700&height=30&lines=Founder+%40+Micet+Wallet;Web3+%26+ZK+Researcher;Unreal+Engine+Game+Developer;Flutter+Mobile+Engineer;MSc+Blockchain+Technology;Nobel+Prize+%E2%80%94+not+if.+when." />
+<!-- Typing subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&random=false&width=600&height=28&lines=Founder+%40+Micet+Wallet+%F0%9F%AA%99;Unreal+Engine+5+Game+Developer+%F0%9F%8E%AE;Flutter+%26+Mobile+Engineer+%F0%9F%93%B1;Zero+Knowledge+Researcher+%F0%9F%94%AC;MSc+Blockchain+Technology+%F0%9F%8E%93;Nobel+Prize+%E2%80%94+not+if.+when.+%F0%9F%8F%86"/>
 
 </div>
 
@@ -93,13 +95,13 @@ $ github --stats YASH514131
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YASH514131&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00FF87&icon_color=00FF87&text_color=555555&ring_color=00FF87&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH514131&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00FF87&text_color=555555&langs_count=6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YASH514131&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00FF87&icon_color=00FF87&text_color=555555&ring_color=00FF87&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH514131&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00FF87&text_color=555555&langs_count=6"/>
 
-<br/>
+<br/><br/>
 
-<img height="140" src="https://streak-stats.demolab.com?user=YASH514131&hide_border=true&background=0d0d0d&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&sideLabels=444444&dates=333333&currStreakNum=ffffff&sideNums=aaaaaa"/>
+<img height="145" src="https://streak-stats.demolab.com?user=YASH514131&hide_border=true&background=0d0d0d&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&sideLabels=444444&dates=333333&currStreakNum=ffffff&sideNums=aaaaaa"/>
 
 </div>
 
@@ -110,7 +112,7 @@ $ bash trophies.sh
 ```
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YASH514131&theme=darkhub&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YASH514131&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 ---
@@ -120,7 +122,7 @@ $ git graph --contributions
 ```
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASH514131&bg_color=0d0d0d&color=00FF87&line=00C853&point=00FF87&area=true&area_color=001a0a&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YASH514131&bg_color=0d0d0d&color=00FF87&line=00C853&point=00FF87&area=true&area_color=001a0a&hide_border=true&custom_title=Contribution+Activity"/>
 </div>
 
 ---
