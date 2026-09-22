@@ -84,7 +84,7 @@ $ git log --timeline
 2024  ●  Founded Micet Wallet · Entered Web3
 2025  ●  MSc Blockchain · Started ZK & Quantum research
 2026  ◉  Scaling Micet Wallet · Publishing ZK paper   ← now
-20??  ○  🏆 Nobel Prize — not if. when.
+20??  ○  🏆 Nobel Prize 
 ```
 
 ---
