@@ -18,7 +18,7 @@ name       →  Yash
 status     →  ⬤ Online — always building
 education  →  MSc in Blockchain Technology
 research   →  Quantum Computers × Blockchain
-dream      →  Nobel Prize  [ not if. when. ]
+dream      →  Nobel Prize  
 ```
 
 ---
